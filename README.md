@@ -11,15 +11,15 @@
 |---|---|
 |Estimate of time needed to complete|1 hour|
 |Start time|2:45 PM|
-|Finish time||
-|Actual time needed to complete|
+|Finish time|3:55 PM|
+|Actual time needed to complete|~45 minutes of actual work|
 
-|Feature #: ||
+|Feature #3: Bootstrap||
 |---|---|
-|Estimate of time needed to complete||
-|Start time||
-|Finish time||
-|Actual time needed to complete|
+|Estimate of time needed to complete|30 minutes|
+|Start time|4:00 PM|
+|Finish time|4:40 PM|
+|Actual time needed to complete|40 minutes|
 
 |Feature #: ||
 |---|---|
