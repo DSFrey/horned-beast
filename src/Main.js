@@ -13,7 +13,7 @@ class Main extends React.Component {
             image_url={beast.image_url}
             title={beast.title}
             description={beast.description}
-            key={beast.keyword}
+            keyword={beast.keyword}
             horns={beast.horns}
             />
           )
