@@ -1,12 +1,11 @@
 import React from 'react';
 import HornedBeast from './HornedBeast';
-import data from './data.json';
 
 class Main extends React.Component {
   render() {
     return(
       <main>
-        {data.map(beast => {
+        {this.props.data.map(beast => {
           return(
             <HornedBeast
             _id={beast._id}
