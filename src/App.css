@@ -1,35 +1,47 @@
 * {
   box-sizing: border-box;
 }
-header, footer {
+
+header,
+footer {
   margin: 0;
   background-color: #372515;
-  color:#e3dcd4;
+  color: #e3dcd4;
 }
+
 h1 {
   margin: 0;
   padding: 2rem;
-  color:#e3dcd4;
+  color: #e3dcd4;
   text-align: center;
 }
+
 main {
   margin: 0;
   background-color: #c69141;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
+  column-width: 300px;
 }
+
 .input-group {
   background-color: #c69141;
   justify-content: center;
   padding: 2rem 0 1rem;
 }
+
 .form-control {
-  max-width: 800px;
+  max-width: 750px;
 }
+
+.horn-select {
+  display: flex;
+  padding: 0 1rem;
+}
+
 .card {
   margin: 1rem;
+  break-inside: avoid-column;
 }
+
 .card-body {
   background-color: #e3dcd4;
   text-align: center;
@@ -38,14 +50,17 @@ main {
   flex-direction: column;
   justify-content: flex-end;
 }
+
 .modal-dialog {
   max-width: 90%;
 }
+
 .modal-dialog img {
   display: block;
   margin: auto;
   max-width: 100%;
 }
+
 footer p {
   padding: 2rem;
   text-align: center;
