@@ -19,6 +19,14 @@ main {
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
+.input-group {
+  background-color: #c69141;
+  justify-content: center;
+  padding: 2rem 0 1rem;
+}
+.form-control {
+  max-width: 800px;
+}
 .card {
   margin: 1rem;
 }
