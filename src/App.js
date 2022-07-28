@@ -13,7 +13,6 @@ class App extends React.Component {
     this.state = {
       showModal: false,
       beastKey: 0,
-      searchText: '',
       filteredData: data
     }
   }
@@ -40,7 +39,7 @@ class App extends React.Component {
       <>
         <SelectedBeast showModal={this.state.showModal} hideModal={this.handleHideModal} beastKey={this.state.beastKey} data={data}/>
         <Header/>
-        <SearchBar search={this.search} searchText={this.searchText} />
+        <SearchBar search={this.search} />
         <Main filteredData={this.state.filteredData} handleShowModal={this.handleShowModal}/>
         <Footer/>
       </>
