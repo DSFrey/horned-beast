@@ -34,8 +34,8 @@ I had the basic functionality done in under 2 hours, but I had a huge struggle t
 |---|---|
 |Estimate of time needed to complete|1 hour|
 |Start time|9:20 PM|
-|Finish time||
-|Actual time needed to complete|
+|Finish time|10:35|
+|Actual time needed to complete|1 hour 15 minutes|
 
 |Feature: ||
 |---|---|
