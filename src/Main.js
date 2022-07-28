@@ -1,10 +1,22 @@
 import React from 'react';
 import HornedBeast from './HornedBeast';
+import SearchBar from './SearchBar';
 
 class Main extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      searchText: '',
+    }
+  }
+  search = (value) => {
+    console.log(value);
+    this.setState({searchText: value});
+  }
   render() {
     return(
       <main>
+        <SearchBar search={this.search} searchText={this.searchText} />
         {this.props.data.map(beast => {
           return(
             <HornedBeast

@@ -30,10 +30,10 @@
 
 I had the basic functionality done in under 2 hours, but I had a huge struggle trying to get it styled like I wanted.
 
-|Feature: ||
+|Feature: Fuzzy Search||
 |---|---|
-|Estimate of time needed to complete||
-|Start time||
+|Estimate of time needed to complete|1 hour|
+|Start time|9:20 PM|
 |Finish time||
 |Actual time needed to complete|
 
