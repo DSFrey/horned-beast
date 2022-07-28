@@ -25,8 +25,10 @@
 |---|---|
 |Estimate of time needed to complete|1.5 hours|
 |Start time|2:40 PM|
-|Finish time||
-|Actual time needed to complete|
+|Finish time|7:00|
+|Actual time needed to complete|4 hours 20 minutes|
+
+I had the basic functionality done in under 2 hours, but I had a huge struggle trying to get it styled like I wanted.
 
 |Feature: ||
 |---|---|

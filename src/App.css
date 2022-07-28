@@ -30,6 +30,14 @@ main {
   flex-direction: column;
   justify-content: flex-end;
 }
+.modal-dialog {
+  max-width: 90%;
+}
+.modal-dialog img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
 footer p {
   padding: 2rem;
   text-align: center;
