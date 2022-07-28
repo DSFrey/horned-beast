@@ -37,7 +37,7 @@ I had the basic functionality done in under 2 hours, but I had a huge struggle t
 |Finish time|10:35|
 |Actual time needed to complete|1 hour 15 minutes|
 
-|Feature: ||
+|Feature: Horns Filter||
 |---|---|
 |Estimate of time needed to complete|1 hour|
 |Start time|2:30 PM|

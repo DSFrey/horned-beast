@@ -9,7 +9,7 @@ class SearchBar extends React.Component {
     this.props.hornsFilter(event.target.value);
   }
   render() {
-    return(
+    return (
       <InputGroup>
         <InputGroup.Text>Search</InputGroup.Text>
         <Form.Control type="text" placeholder='Title or Keyword' onChange={this.handleSearch}></Form.Control>
