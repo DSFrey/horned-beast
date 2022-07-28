@@ -9,7 +9,7 @@ class SearchBar extends React.Component {
     return(
       <InputGroup>
         <InputGroup.Text>Search</InputGroup.Text>
-        <FormControl placeholder='Title or Keyword' value={this.props.searchText} onChange={this.handleSearch}></FormControl>
+        <FormControl placeholder='Title or Keyword' onChange={this.handleSearch}></FormControl>
       </InputGroup>
     )
   }
